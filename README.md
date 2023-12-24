@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Discusser and I program for fun. I'm still in high school but I plan on studying computer science later.
+I know various languages (such as C++, Rust, JavaScript, Python...) and I'm always trying to learn something new. With all these languages I've developped websites, applications, and scripts, you can find some of them on my [website](https://discusser.github.io/)
 <!--
 **Discusser/Discusser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
